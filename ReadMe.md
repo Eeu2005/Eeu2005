@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<h2> Estudante de programação focado no Back-end.<br>Estudando DS (Desenvolvimento de sistemas ) na Etec<br>atualmente estou estou focado na linguagem NodeJs <br>Tenho experiências em JAVA e PHP <Br> Possuo conhecimento em Banco de dados como SQl Server, mySQL e MongoDB</h2>
+<h2> Estudante de programação focado no Back-end.<br>Estudando DS (Desenvolvimento de sistemas ) na Etec<br>Atualmente estou estou focado na linguagem NodeJs <br>Tenho experiências em JAVA e PHP <Br> Possuo conhecimento em Banco de dados como SQl Server, mySQL e MongoDB</h2>
 
  
  [![](https://visitcount.itsvg.in/api?id=Eeu2005&icon=10&color=13)](https://visitcount.itsvg.in)
