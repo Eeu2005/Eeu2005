@@ -17,11 +17,14 @@
  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)   ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)  ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 # 📊 GitHub Stats:
 
-<div align="center">
-<img height=200   src="https://github-readme-stats.vercel.app/api?username=Eeu2005&theme=react&hide_border=True&include_all_commits=true&amp;count_private=true&amp;locale=pt-br&amp;custom_title=Estat%C3%ADsticas+do+GitHub+de+eeu&amp;show_icons=true&amp;layout=compact&rank_icon=github&ring_color=FF00FF" alt="">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Eeu2005&theme=react&hide_border=true&locale=pt_BR&date_format=%5BY.%5Dn.j&mode=weekly&card_width=500&card_height=200&stroke=ff00ff&sideNums=009AC4&sideLabels=ffffff&dates=009AC4&hide_current_streak=true" alt="GitHub Streak" /></a>
-<br>
-<a align="center"><img height="400" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eeu2005&amp;theme=react&amp;hide_border=True&amp;include_all_commits=true&amp;count_private=true&amp;locale=pt-br&amp;layout=pie" alt=""></a>
+<div height="400">
+ <img height="400" align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eeu2005&amp;theme=react&amp;hide_border=True&amp;include_all_commits=true&amp;count_private=true&amp;locale=pt-br&amp;layout=pie" alt="">
+ <br>
+<img    width="500"  align="left" src="https://github-readme-stats.vercel.app/api?username=Eeu2005&theme=react&hide_border=True&include_all_commits=true&amp;count_private=true&amp;locale=pt-br&amp;custom_title=Estat%C3%ADsticas+do+GitHub+de+eeu&amp;show_icons=true&amp;layout=compact&rank_icon=github&ring_color=FF00FF&card_height=500" alt="">
+ <br>
+
+<img  height=200 width="500" src="https://github-readme-streak-stats.herokuapp.com?user=Eeu2005&theme=react&hide_border=true&locale=pt_BR&date_format=%5BY.%5Dn.j&mode=weekly&card_width=500&stroke=ff00ff&sideNums=009AC4&sideLabels=ffffff&dates=009AC4&hide_current_streak=true" align="left" alt="GitHub Streak" />
+ <br>
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
