@@ -1,16 +1,19 @@
+<h1 align="center">Eeu</h1>
+<p>Desenvolvedor Full-stack</p>
+
 <table>
 <tr>
 <td>
 
 ## 🧾Linguagens
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=23F7DF1E)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=gray)
-![java](https://img.shields.io/badge/java-red?style=for-the-badge&logo=eclipse)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![java](https://img.shields.io/badge/java-red?style=for-the-badge&logo=eclipse)
+![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 
 </td>
 <td>
@@ -60,7 +63,7 @@
   <table>
     <tr>
       <td>
-         <img  src="https://github-readme-stats.vercel.app/api?username=Eeu2005&theme=rose_pine&hide_border=True&include_all_commits=true&amp;count_private=true&amp;locale=pt-br&amp;custom_title=Estat%C3%ADsticas+do+GitHub+de+EEU&amp;show_icons=true&amp;layout=compact&rank_icon=github&ring_color=96cdfb" alt="">
+         <img  src="https://github-readme-stats.vercel.app/api?username=Eeu2005&theme=rose_pine&hide_border=True&include_all_commits=true&amp;count_private=true&amp;locale=pt-br&amp;custom_title=Estat%C3%ADsticas+do+GitHub+de+Eeu&amp;show_icons=true&amp;layout=compact&rank_icon=github&ring_color=96cdfb" alt="">
       </td>
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com?user=Eeu2005&theme=rose_pine&hide_border=true&locale=pt_BR&date_format=%5BY.%5Dn.j&mode=weekly&stroke=96cdfb&sideNums=009AC4&sideLabels=ffffff&dates=009AC4&hide_current_streak=true" alt="GitHub Streak" >
