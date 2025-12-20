@@ -1,6 +1,9 @@
-<h1 align="center">Eeu</h1>
-<p>Desenvolvedor Full-stack</p>
+ <img align="right" width=110 src="./Logo/EuLogo.plain.svg"> 
+<h1 align="left">Eeu</h1>
+<h2 align="left">Desenvolvedor Full-stack</h2>
 
+<details>
+<summary><span>Coisinhas<span></summary>
 <table>
 <tr>
 <td>
@@ -63,7 +66,7 @@
   <table>
     <tr>
       <td>
-         <img  src="https://github-readme-stats.vercel.app/api?username=Eeu2005&theme=rose_pine&hide_border=True&include_all_commits=true&amp;count_private=true&amp;locale=pt-br&amp;custom_title=Estat%C3%ADsticas+do+GitHub+de+Eeu&amp;show_icons=true&amp;layout=compact&rank_icon=github&ring_color=96cdfb" alt="">
+         <img  src="https://github-readme-stats.vercel.app/api?username=Eeu2005&theme=rose_pine&hide_border=True&include_all_commits=true&amp;count_private=true&amp;locale=pt-br&amp;custom_title=Estat%C3%ADsticas+do+GitHub+de+Eeu&amp;show_icons=true&amp;layout=compact&rank_icon=github&ring_color=0067b9" alt="">
       </td>
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com?user=Eeu2005&theme=rose_pine&hide_border=true&locale=pt_BR&date_format=%5BY.%5Dn.j&mode=weekly&stroke=96cdfb&sideNums=009AC4&sideLabels=ffffff&dates=009AC4&hide_current_streak=true" alt="GitHub Streak" >
@@ -77,5 +80,5 @@
       </td>
     </tr>
   <table>
-</div>
+</div></details>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
