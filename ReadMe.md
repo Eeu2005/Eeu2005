@@ -1,6 +1,6 @@
- <img align="right" width=110 src="./Logo/EuLogo.plain.svg"> 
-<h1 align="left">Eeu</h1>
-<h2 align="left">Desenvolvedor Full-stack</h2>
+ <img align="right" height=40 width=300 src="./Logo/EuLogo.svg" background="RED"> 
+<h1 align="center">Eeu</h1>
+<h2 align="center">Desenvolvedor Full-stack</h2>
 
 <details>
 <summary><span>Coisinhas<span></summary>
